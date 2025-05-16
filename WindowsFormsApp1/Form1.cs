@@ -17,7 +17,7 @@ namespace WindowsFormsApp1
         int playerSpeed = 8;
         int[] computerSpeeds = { 5, 6, 8, 9 };
         int[] ballSpeeds = { 10, 9, 8, 11, 12 };
-        int topOffset = 50;
+        int topOffset = 60;
         int secondsElapsed = 0;
 
         public Form1()
